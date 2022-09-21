@@ -14,6 +14,6 @@ int main(){
             j++;
             }
         }
-    cout<<round(sum/j)<<" ";
+    cout<<round(sum/j)<<"  ";
     }
 }
